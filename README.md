@@ -7,6 +7,7 @@
 ## [القوائم](lists.md)
 ## [رسالتنا](message.md)
 ## [DMCA](DMCA.md)
+ [2](rqaaq.md)
 -------
 ### الكتب الرائجة 
 - [![رقائق القرآن](https://raw.githubusercontent.com/iqraa4u/iqraa4u.github.io/main/images_25_85_2_100x100.jpeg)](rqaaq.md)
