@@ -15,8 +15,7 @@
 - [![الطريق الى القرآن]()](https://iqraa4u.me/way.html)
 - [![السنجة]()](https://iqraa4u.me/elsinga.html)
 - [![أماريتا]()](https://iqraa4u.me/amareta.html)
-
-
+- [![الماجريات]()](https://iqraa4u.me/magriat.html)
 
 
 
