@@ -1,8 +1,7 @@
-## 
+
 ###   iqraa4u أهلاً وسهلاً بكم في موقع أقرأ لك
 
- [1](https://github.com/engmostfa/engmostfa.github.io/edit/main/README.md)
-
+ 
 
  كتاب رقائق القرآن تأليف الاستاذ ابراهيم السكران 
 
