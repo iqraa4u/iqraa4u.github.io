@@ -10,7 +10,7 @@
  [2](rqaaq.md)
 -------
 ### الكتب الرائجة 
-- [![رقائق القرآن](https://raw.githubusercontent.com/iqraa4u/iqraa4u.github.io/main/images_25_85_2_100x100.jpeg)](rqaaq.md)
+- [![رقائق القرآن](https://raw.githubusercontent.com/iqraa4u/iqraa4u.github.io/main/images_25_85_2_100x100.jpeg)](https://foulabook.com/ar/books)
 - ![مسلكيات]()
 - ![الطريق الى القرآن]()
 - ![السنجة]()
