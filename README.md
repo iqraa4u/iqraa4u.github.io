@@ -11,7 +11,7 @@
 -------
 ### الكتب الرائجة 
 - [![رقائق القرآن](https://raw.githubusercontent.com/iqraa4u/iqraa4u.github.io/main/images_25_85_2_100x100.jpeg)](https://iqraa4u.me/rqaaq.html)
-- ![مسلكيات]()
+- <image scr="https://raw.githubusercontent.com/iqraa4u/iqraa4u.github.io/main/images%20(26).jpeg" width="200" height="200" />
 - ![الطريق الى القرآن]()
 - ![السنجة]()
 - ![أماريتا]()
