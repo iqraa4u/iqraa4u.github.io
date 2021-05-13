@@ -1,7 +1,4 @@
 
- 
-<script data-ad-client="ca-pub-2278571380988508" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
 #   *iqraa4u  موقع أقرأ لك*
 
 ## [الكتب](books.md)
