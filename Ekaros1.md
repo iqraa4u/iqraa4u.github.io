@@ -3,11 +3,11 @@
 ![](https://raw.githubusercontent.com/iqraa4u/iqraa4u.github.io/main/images%20-%202021-05-16T093938.630.jpeg)
 
 ### الجزء الاول
-<iframe width="360" height="315" src="https://www.youtube.com/embed/7c2DfatEKws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340" height="315" src="https://www.youtube.com/embed/7c2DfatEKws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ----
 ### الجزء الثاني والاخير
-<iframe width="360" height="315" src="https://www.youtube.com/embed/cUGW4KEVn6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340" height="315" src="https://www.youtube.com/embed/cUGW4KEVn6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ----
 ###  pdf لتحميل رواية مثل ايكاروس
