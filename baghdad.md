@@ -1,8 +1,8 @@
-## تحميل كتاب ليلة سقوط بغداد
+## pdf تحميل كتاب ليلة سقوط بغداد 
 ### د أحمد خيري العمري
 ![](https://raw.githubusercontent.com/iqraa4u/iqraa4u.github.io/main/images%20(43).jpeg)
 
-### [لتحميل الكتاب أضغط هنا ](https://github.com/iqraa4u/iqraa4u.github.io/raw/main/%D9%84%D9%8A%D9%84%D8%A9%20%D8%B3%D9%82%D9%88%D8%B7%20%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF%20%D8%A3%D8%AD%D9%85%D8%AF%20%D8%AE%D9%8A%D8%B1%D9%8A%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A%20%23%D9%81%D9%88%D8%B1_%D8%B1%D9%8A%D8%AF.pdf)
+### [pdf أضغط هنا لتحميل الكتاب ](https://github.com/iqraa4u/iqraa4u.github.io/raw/main/%D9%84%D9%8A%D9%84%D8%A9%20%D8%B3%D9%82%D9%88%D8%B7%20%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF%20%D8%A3%D8%AD%D9%85%D8%AF%20%D8%AE%D9%8A%D8%B1%D9%8A%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A%20%23%D9%81%D9%88%D8%B1_%D8%B1%D9%8A%D8%AF.pdf)
 ##  كتاب ليلة سقوط بغداد مسموع     
 <iframe width="375" height="315" src="https://www.youtube.com/embed/yIlJx1Qnk40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### عن الكتاب 
