@@ -1,0 +1,36 @@
+<body style="background-color:grey;">
+     </body>
+<h1 id="-iqraa4u-"><em>iqraa4u  موقع أقرأ لك</em></h1>
+  
+<a href="index.html" style="display:inline-block; text-decoration:none; color:#000000; margin-right:20px;"><h2>الرئيسية</h2></a>
+<a href="books.html" style="display:inline-block; text-decoration:none; color:#000000; margin-right:20px;"><h2>الكتب</h2></a>
+<a href="novels.html" style="display:inline-block; text-decoration:none; color:#000000; margin-right:20px;"><h2>الروايات</h2></a>
+<a href="articles.html" style="display:inline-block; text-decoration:none; color:#000000; margin-right:20px;"><h2>المقالات</h2></a>
+<a href="quotes.html" style="display:inline-block; text-decoration:none; color:#000000; margin-right:20px;"><h2>إقتباسات</h2></a>
+<a href="lists.html" style="display:inline-block; text-decoration:none; color:#000000; margin-right:20px;"><h2>القوائم</h2></a>
+<a href="message.html" style="display:inline-block; text-decoration:none; color:#000000; margin-right:20px;"><h2>رسالتنا</h2></a>
+<a href="DMCA.html" style="display:inline-block; text-decoration:none; color:#000000; margin-right:20px;"><h2>DMCA</h2></a>
+
+<hr>
+</ul>
+<h2 id="-">الروايات الرائجة</h2>
+<ul>
+<li style="display:inline-block; margin-right:20px;><a href="https://iqraa4u.me/Shaabib.html"><img src="https://raw.githubusercontent.com/iqraa4u/iqraa4u.github.io/main/images%20(4).jpeg"
+width="400" height="500" alt=""></a></li>
+<li style="display:inline-block; margin-right:20px;><a href="https://iqraa4u.me/Utobia.html"><img src="https://raw.githubusercontent.com/iqraa4u/iqraa4u.github.io/main/images%20(3).jpeg"
+width="400" height="500" alt=""></a></li>
+<li style="display:inline-block; margin-right:20px;><a href="https://iqraa4u.me/Zekola.html"><img src="https://raw.githubusercontent.com/iqraa4u/iqraa4u.github.io/main/IMG_%D9%A2%D9%A0%D9%A2%D9%A1%D9%A0%D9%A5%D9%A2%D9%A3_%D9%A0%D9%A2%D9%A3%D9%A9%D9%A4%D9%A8.jpg"
+width="400" height="500" alt=""></a></li>
+<li style="display:inline-block; margin-right:20px;><a href="https://iqraa4u.me/El3abth.html"><img src="https://raw.githubusercontent.com/iqraa4u/iqraa4u.github.io/main/images%20(45).jpeg"
+width="400" height="500" alt=""></a></li>
+<li style="display:inline-block; margin-right:20px;><a href="https://iqraa4u.me/amareta.html"><img src="https://raw.githubusercontent.com/iqraa4u/iqraa4u.github.io/main/images%20(48).jpeg"
+width="400" height="500" alt=""></a></li>
+<li style="display:inline-block; margin-right:20px;><a href="https://iqraa4u.me/half%20dead.html"><img src="https://raw.githubusercontent.com/iqraa4u/iqraa4u.github.io/main/images%20(46).jpeg"
+width="400" height="500" alt=""></a></li>
+<li style="display:inline-block; margin-right:20px;><a href="https://iqraa4u.me/ELSINGA.html"><img src="https://raw.githubusercontent.com/iqraa4u/iqraa4u.github.io/main/images%20(1).jpeg"
+width="400" height="500" alt="السنجة"></a></li>
+<li style="display:inline-block; margin-right:20px;><a href="https://iqraa4u.me/retana.html"><img src="https://raw.githubusercontent.com/iqraa4u/iqraa4u.github.io/main/addtext_com_MDAwNDM4MzYwMjA.jpg"
+width="400" height="500" alt="ريتانا"></a></li>
+<li style="display:inline-block; margin-right:20px;><a href="https://iqraa4u.me/Ekaros.html"><img src="https://raw.githubusercontent.com/iqraa4u/iqraa4u.github.io/main/images%20-%202021-05-16T093938.630.jpeg"
+width="400" height="500" alt=""></a></li>
+</ul>
